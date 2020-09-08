@@ -1,1 +1,5 @@
 Hello from file2!
+
+Fixed bug for wrong date
+
+Now shows 9/8/2020 instead of 9/8/1920
